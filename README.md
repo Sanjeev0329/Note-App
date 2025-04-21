@@ -1,16 +1,29 @@
-# note_apk
+# 📝 NoteApp
 
-A new Flutter project.
+A simple and clean Flutter-based Note-taking application that allows users to create, edit, delete and manage notes efficiently.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🖊️ Create, edit, and delete notes
+- 📋 List view of saved notes
+- 🌙 Beautiful and clean UI
+- 🔐 (Optional) Secure notes feature (if implemented)
+- 💾 Data persistence using local storage (e.g., SQLite)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- (Optional) SQLite / Shared Preferences for local storage
+
+---
+
+## 📦 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/sanjeev0329/NoteApp.git
