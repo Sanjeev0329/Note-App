@@ -27,3 +27,22 @@ A simple and clean Flutter-based Note-taking application that allows users to cr
 1. Clone the repo:
    ```bash
    git clone https://github.com/sanjeev0329/NoteApp.git
+
+2. Navigate to the Project Directory
+   Go into the project directory (this step ensures you’re in the right folder to run the app):
+  -  cd NoteApp
+
+3. Get Dependencies
+   Install all the necessary dependencies (this downloads the required packages for the app):
+  -  flutter pub get
+
+4. Run the App
+    Run the app on your preferred device or emulator (this will launch your app):
+  -  flutter run
+    Now, your app is ready to go!
+
+✍️ Author
+Sanjeev Yadav
+💼 LinkedIn: https://www.linkedin.com/in/sanjeeb-yadav-a88a09327
+📧 sanjeebyadav21@gmail.com
+📱 +91 7632017345
