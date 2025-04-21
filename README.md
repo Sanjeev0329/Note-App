@@ -30,9 +30,12 @@ A simple and clean Flutter-based Note-taking application that allows users to cr
 
 2. Navigate to the Project Directory
    Go into the project directory (this step ensures you’re in the right folder to run the app):
-  -  cd NoteApp
+        ```bash
+  cd NoteApp
 
-3. Get Dependencies
+      
+
+4. Get Dependencies
    Install all the necessary dependencies (this downloads the required packages for the app):
   -  flutter pub get
 
