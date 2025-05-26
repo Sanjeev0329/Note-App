@@ -1,6 +1,12 @@
+# Force GitHub to recognize Dart as the main language
 *.dart linguist-language=Dart
-*.java linguist-language=Java
-*.kt linguist-language=Kotlin
+
+# Mark platform-specific folders as vendored so they don't count
 android/** linguist-vendored
 ios/** linguist-vendored
 build/** linguist-vendored
+
+# Optional: Ignore other tool folders
+.dart_tool/** linguist-vendored
+.pub/** linguist-vendored
+
