@@ -1,0 +1,6 @@
+*.dart linguist-language=Dart
+*.java linguist-language=Java
+*.kt linguist-language=Kotlin
+android/** linguist-vendored
+ios/** linguist-vendored
+build/** linguist-vendored
